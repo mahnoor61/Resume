@@ -1,0 +1,25 @@
+div#sideBar{
+    background-color: rgb(48, 44, 44);
+}
+/* div#partition{
+    background-color:rgb(223, 138, 28);
+} */
+h3{
+    color:rgb(223, 138, 28);
+}
+/* icon color */
+i{
+    color:rgb(223, 138, 28);
+    /* margin-left:40px; */
+}
+ul#skill li{
+    color:white;
+}
+div#formCon{
+    border: 5px solid #ffd11a;
+    box-shadow: 0 0 20px black;
+    padding: 50px;
+}
+form#f{
+    box-shadow:  0 0 10px #ffd11a;
+}
